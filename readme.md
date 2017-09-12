@@ -11,3 +11,7 @@ Hmm.
   .red { color: red; }
 </style>
 <div class="red">Red?</div>
+
+<p>foo</p>
+
+Bar.
